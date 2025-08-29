@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-	<a href=https://github.com/HUFS-DAT/2025-1_Seminar><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" /></a>
+	<a href=https://github.com/HUFS-DAT/2025-2_Seminar><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" /></a>
 </div>
 
 ***
@@ -66,4 +66,5 @@
 
 ***
 ## 이전 세미나 Previous Seminar
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HUFS-DAT&repo=2025-1_Seminar)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HUFS-DAT&repo=2024-2_Seminar)
